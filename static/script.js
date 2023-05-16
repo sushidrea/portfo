@@ -1,0 +1,1 @@
+console.log("Wazzzupppp I haven't written anything in js in a while")
